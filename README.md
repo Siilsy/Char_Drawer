@@ -12,6 +12,13 @@ So you have only 6 very easy parameters :
 
 That is all you have to know about this very simple program !
 
+And, just in case, you can draw all these symbols : 
+- The entire alphabet, in lowercase and uppercase
+- The 10 numbers
+- These 37 specials caracters > '",:.!?()%_+-*/=[]{}<>;π√~^∞→|°±@#&$\
+- These 16 more popular accented letters > àâäéèêëîïôöùûüÿç
+- And...the space. Of course !
+
 ## 🖥️ Requirements
 This program is coded in micropython just for Numwoks calculator but it must works on a computer if you change the module to adapt with Pyhton.
 
