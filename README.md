@@ -18,6 +18,7 @@ And, just in case, you can draw all these symbols :
 - These 37 specials caracters > '",:.!?()%_+-*/=[]{}<>;π√~^∞→|°±@#&$\
 - These 16 more popular accented letters > àâäéèêëîïôöùûüÿç
 - And...the space. Of course !
+But if the character is unknown in my database it will draw a ▯.
 
 ## 🖥️ Requirements
 This program is coded in micropython just for Numwoks calculator but it must works on a computer if you change the module to adapt with Pyhton.
