@@ -1,5 +1,6 @@
 # 🖌️ Char_Drawer
 Just a fonction to draw 115 symbols on a screen !
+#
 
 ## ℹ️ Informations
 The only thing you need to know is how to use the commands and there is just a simple fonction named write_string().
@@ -19,12 +20,16 @@ And, just in case, you can draw all these symbols :
 - These 16 more popular accented letters > àâäéèêëîïôöùûüÿç
 - And...the space. Of course !
 But if the character is unknown in my database it will draw a ▯.
+##
 
 ## 🖥️ Requirements
 This program is coded in micropython just for Numwoks calculator but it must works on a computer if you change the module to adapt with Pyhton.
+##
 
 ## 💬 Language
 It was coded on a Numworks calculator in Micropython.
+##
 
 ## 🛠️ Details
 The project has been created the November 20 of 2023.
+##
