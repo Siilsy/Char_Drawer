@@ -27,4 +27,4 @@ This program is coded in micropython just for Numwoks calculator but it must wor
 It was coded on a Numworks calculator in Micropython.
 
 ## 🛠️ Details
-The script has been created the November 20 of 2023.
+The project has been created the November 20 of 2023.
